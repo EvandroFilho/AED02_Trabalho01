@@ -1,0 +1,13 @@
+1.https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&uact=8&ved=2ahUKEwjIjYiIwZzkAhWiHbkGHQj-DogQFjAUegQICBAC&url=http%3A%2F%2Fdainf.ct.utfpr.edu.br%2F~maurofonseca%2Flib%2Fexe%2Ffetch.php%3Fmedia%3Dcursos%3Aif63c%3Aif63ced_08_ordenacao.pdf&usg=AOvVaw1nGelkQ8xwZzAoPx1Flv5B
+
+2.https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=2ahUKEwj7rICNzpzkAhVUK7kGHYJlBOkQFjAEegQIABAC&url=http%3A%2F%2Fwww.inf.ufsc.br%2F~r.mello%2Fine5384%2F17-OrdenacaoDados3.pdf&usg=AOvVaw1ZohAXuDaGkQPangmPFq7e
+
+3.https://pt.wikipedia.org/wiki/Ordena%C3%A7%C3%A3o_est%C3%A1vel
+
+4.https://www.quora.com/What-are-the-applications-of-heap-sort
+
+5.https://en.wikipedia.org/wiki/Shellsort
+
+6.http://www2.dcc.ufmg.br/livros/algoritmos-edicao2/cap4/transp/completo1/cap4.pdf
+
+7.https://www.passeidireto.com/arquivo/4034042/relatorio_ed
